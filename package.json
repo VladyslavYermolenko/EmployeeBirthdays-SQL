@@ -1,0 +1,15 @@
+{
+  "name": "employee-birthdays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EmployeeBirthdays.js",
+  "scripts": {
+    "start": "node EmployeeBirthdays.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
